@@ -1,0 +1,91 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  max-width: 900px;
+  margin: auto;
+}
+
+button {
+  min-width: 80;
+}
+
+/* make the tables more readable */
+table {
+  margin: 0px auto;
+}
+
+td {
+  padding-right: 10px;
+  font-size: 1.3em;
+}
+
+td strong {
+  color: white;
+}
+
+#table-header {
+  background-color: #8f8f8f;
+}
+
+.table-row {
+  background-color: #badde3;
+}
+
+.col1 {
+  background-color: #d0dfe2;
+}
+
+/* end of table properties */
+main {
+  display: flex;
+  float: right;
+}
+
+#info {
+  float: right;
+}
+
+.p-5 {
+  color: white;
+  background-color: #0dcaf0;
+
+}
+
+.tshop {
+  font-size: 24px;
+}
+
+#ttshop {
+  font-family: 'Fredericka the Great';
+  font-size: 30px;
+}
+
+.bshop {
+  box-shadow: 2px 2px 0 0 gray;
+}
+
+.shopused {
+  text-decoration: line-through;
+}
+
+table {
+  margin: 0px auto;
+}
+
+.gain {
+  color: green;
+  font-size: 1em;
+}
+
+.loss {
+  color: red;
+  font-size: 1em;
+}
+
+.nonprofit {
+  color: gray;
+  font-size: 1em;
+}
